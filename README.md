@@ -47,8 +47,8 @@ pip install pandas numpy scikit-learn transformers datasets torch nltk matplotli
 ## Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Aman7747/swahili-news-classification.git
-   cd swahili-news-classification
+   git clone https://github.com/Aman7747/NLP_PROJECT.git
+   cd NLP_PROJECT
    ```
 
 2. **Install Dependencies:**
