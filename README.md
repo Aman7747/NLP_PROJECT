@@ -1,9 +1,7 @@
 # NLP_PROJECT
-Sure! Below is a README file tailored for the GitHub repository containing the code from the provided Jupyter Notebook. This README will provide an overview of the project, instructions on how to set up and run the code, and details about the data and model used.
-
 ---
 
-# Swahili News Classification using AfriBERTa
+# Swahili News Classification using AfriBERTA
 
 This repository contains a Python script for classifying Swahili news articles into predefined categories using the AfriBERTa model. The project leverages the Hugging Face Transformers library and is designed to run on the Kaggle platform.
 
